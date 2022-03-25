@@ -1,0 +1,17 @@
+{
+  "name": "flycart/sendgrid",
+  "description": "",
+  "type": "project",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "flycart",
+      "email": "rasel@flycart.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "se\\": ""
+    }
+  }
+}
